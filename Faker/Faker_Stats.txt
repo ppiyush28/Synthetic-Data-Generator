@@ -1,0 +1,5 @@
+runfile('C:/Users/piyush/Desktop/Synetics Data gen/Faker/Faker_name_add_phone_10000.py', wdir='C:/Users/piyush/Desktop/Synetics Data gen/Faker')
+created csv file time: 274.04496216773987
+got totals time: 0.9520237445831299
+qty: 499987
+amount: 5246330.32999995
