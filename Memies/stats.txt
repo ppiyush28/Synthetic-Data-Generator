@@ -1,0 +1,2 @@
+created csv file time: 15.90076231956482
+got totals time: 0.9199178218841553
